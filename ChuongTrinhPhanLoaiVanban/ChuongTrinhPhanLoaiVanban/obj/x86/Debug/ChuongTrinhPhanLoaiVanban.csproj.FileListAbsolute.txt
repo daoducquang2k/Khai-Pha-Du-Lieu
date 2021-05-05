@@ -1,0 +1,109 @@
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Form1.resources
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDuLieu.resources
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Properties.Resources.resources
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csproj.GenerateResource.Cache
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.exe
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.pdb
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.exe
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.pdb
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmTuDien.resources
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmPhanLoai.resources
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmGioiThieu.resources
+D:\Hoc Tap\nghien cuu khoa hoc\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDanhMuc.resources
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.exe
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.pdb
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Form1.resources
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDanhMuc.resources
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDuLieu.resources
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmGioiThieu.resources
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmPhanLoai.resources
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmTuDien.resources
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Properties.Resources.resources
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.exe
+C:\Users\0985368111\Desktop\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.pdb
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.exe
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.pdb
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.exe
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.pdb
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Form1.resources
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDanhMuc.resources
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDuLieu.resources
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmGioiThieu.resources
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmPhanLoai.resources
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmTuDien.resources
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Properties.Resources.resources
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\de tai\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.exe
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.pdb
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.exe
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.pdb
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Form1.resources
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDanhMuc.resources
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDuLieu.resources
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmGioiThieu.resources
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmPhanLoai.resources
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmTuDien.resources
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Properties.Resources.resources
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Topic\san pham\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.exe
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.pdb
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.exe
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.pdb
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Form1.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDanhMuc.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDuLieu.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmGioiThieu.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmPhanLoai.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmTuDien.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Properties.Resources.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csproj.GenerateResource.Cache
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.exe
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\Chuong Trinh\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.pdb
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.exe
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.pdb
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.exe
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.pdb
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Form1.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDanhMuc.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDuLieu.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmGioiThieu.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmPhanLoai.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmTuDien.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Properties.Resources.resources
+D:\Hoc Tap\thuc tap co so\baitaplon\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csproj.GenerateResource.Cache
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.exe
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.pdb
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.exe
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.pdb
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csprojResolveAssemblyReference.cache
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Form1.resources
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDanhMuc.resources
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDuLieu.resources
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmGioiThieu.resources
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmPhanLoai.resources
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmTuDien.resources
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Properties.Resources.resources
+C:\Users\quyduy\Desktop\Kì 1- Năm 5\Thực tập chuyên ngành\DTSV.2013.K2.028\thuctapcoso.vuvanduc\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csproj.GenerateResource.Cache
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.exe
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.pdb
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.exe
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\bin\Debug\ChuongTrinhPhanLoaiVanban.pdb
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csprojResolveAssemblyReference.cache
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Form1.resources
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDanhMuc.resources
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmDuLieu.resources
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmGioiThieu.resources
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmPhanLoai.resources
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.frmTuDien.resources
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.Properties.Resources.resources
+D:\TAI LIEU CUA A CONG\A. Nam Cuoi\CAC_MON_HOC\Nhung van de moi cntt\De tai mon nhung van de moi CNTT va TT\Nhom\ChuongTrinhPhanLoaiVanban\ChuongTrinhPhanLoaiVanban\obj\x86\Debug\ChuongTrinhPhanLoaiVanban.csproj.GenerateResource.Cache
